@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test data and outputs
+*.pdf
+*.jpg
+*.png
+parsed_output.json
+
+# OS generated files
+.DS_Store

@@ -1,0 +1,8 @@
+# AI-Powered Financial Document Parser
+
+A Full-Stack AI pipeline that ingests unstructured financial documents (bank statements, invoices) and extracts structured JSON data using local OCR (Tesseract) and LLMs.
+
+## Current Architecture
+- **OCR Engine:** Tesseract (Local)
+- **AI/LLM Layer:** Gemini 1.5 Flash
+- **Language:** Python
