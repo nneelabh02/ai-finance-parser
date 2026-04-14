@@ -5,7 +5,7 @@
 ![Backend Stack](https://img.shields.io/badge/Backend-FastAPI_%7C_Docker_%7C_Python-green)
 ![AI Engine](https://img.shields.io/badge/AI-Tesseract_OCR_%7C_Gemini_2.5-orange)
 
-**Live Demo:** [Click here to view the production dashboard](YOUR_VERCEL_LINK_HERE)
+**Live Demo:** [Click here to view the production dashboard](https://ai-finance-parser.vercel.app/)
 
 ## 🚀 Overview
 The AI Finance Parser is a full-stack, distributed application designed to solve the "unstructured data" problem in finance. It takes messy, unformatted bank statements (PDFs), extracts the raw text using a local C++ OCR engine, and uses an LLM to forcefully structure the data into a strict, predictable JSON schema.
