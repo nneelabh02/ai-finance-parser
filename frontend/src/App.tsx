@@ -45,7 +45,7 @@ function App() {
 
     try {
       // Hit our local Python FastAPI server
-      const response = await fetch("http://localhost:8000/api/parse", {
+      const response = await fetch("https://ai-finance-api-eo5z.onrender.com/api/parse", {
         method: "POST",
         body: formData,
       });
